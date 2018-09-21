@@ -4,7 +4,7 @@
     var options = $.extend({
       default_offset_pct: 0.5,
       orientation: 'horizontal',
-      before_label: '2015',
+      before_label: '2014/15',
       after_label: '2018',
       no_overlay: false,
       move_slider_on_hover: false,
